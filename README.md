@@ -1,4 +1,4 @@
-# HBFC BANK Personal Loans EDA project description
+# Project description
 --------------------------------------
 
 * This project is about a bank (HBFC Bank) which has a growing customer base. Majority of these customers are customers having deposits (Saving, Current) and Term Deposit (including Fixed Deposits and Recurring deposit accounts) in the bank. The number of customers who are also borrowers (customers having loan accounts) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its customers having deposits to personal loan customers (while retaining them as depositors).
